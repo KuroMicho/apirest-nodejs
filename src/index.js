@@ -10,6 +10,6 @@ const app = express()
 
 
 app.listen(4000,()=>{
-    console.log("El servidor esta corriendo en http://localhost:3000/")
+    console.log("El servidor esta corriendo en http://localhost:4000/")
     
 })
